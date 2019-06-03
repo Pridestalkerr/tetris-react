@@ -1,0 +1,10 @@
+body{
+	background-color: #282828;
+}
+
+#board{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tetris-react/static/css/main.4b1f015d.chunk.css",
+    "main.js": "/tetris-react/static/js/main.00bc7abc.chunk.js",
+    "main.js.map": "/tetris-react/static/js/main.00bc7abc.chunk.js.map",
+    "runtime~main.js": "/tetris-react/static/js/runtime~main.009b4986.js",
+    "runtime~main.js.map": "/tetris-react/static/js/runtime~main.009b4986.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/tetris-react/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.18663f47.chunk.js": "/tetris-react/static/js/2.18663f47.chunk.js",
+    "static/js/2.18663f47.chunk.js.map": "/tetris-react/static/js/2.18663f47.chunk.js.map",
+    "index.html": "/tetris-react/index.html",
+    "precache-manifest.6f6408c42607850e823a96ab99e3f99b.js": "/tetris-react/precache-manifest.6f6408c42607850e823a96ab99e3f99b.js",
+    "service-worker.js": "/tetris-react/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/tetris-react/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.4b1f015d.chunk.css.map": "/tetris-react/static/css/main.4b1f015d.chunk.css.map"
+  }
+}

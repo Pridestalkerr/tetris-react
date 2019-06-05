@@ -43,9 +43,9 @@ class Tetris extends React.Component {
 	}
 
 	moveLeft() {
-	new Audio(process.env.PUBLIC_URL + "/pop.mp3").play();
-	if (!(this.table[this.state.y][this.state.x - 1] || this.state.x === 0))
-	this.setState({ x: this.state.x - 1 });
+		new Audio(process.env.PUBLIC_URL + "/pop.mp3").play();
+		if (!(this.table[this.state.y][this.state.x - 1] || this.state.x === 0))
+			this.setState({ x: this.state.x - 1 });
 	}
 
 	moveRight() {

@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACC,qBACD,CAEA,OACC,YAAa,CACb,YAAa,CACb,sBAAuB,CACvB,kBACD","file":"main.4b1f015d.chunk.css","sourcesContent":["body{\n\tbackground-color: #000000;\n}\n\n#board{\n\theight: 100vh;\n\tdisplay: flex;\n\tjustify-content: center;\n\talign-items: center;\n}\n"]}

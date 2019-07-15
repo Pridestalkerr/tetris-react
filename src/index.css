@@ -1,10 +1,17 @@
-body{
+body
+{
 	background-color: #000000;
 }
 
-#board{
+#board
+{
 	height: 100vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+}
+
+#gameOverBox
+{
+	
 }

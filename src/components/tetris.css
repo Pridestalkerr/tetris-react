@@ -1,0 +1,49 @@
+#tetrisBoard
+{
+    box-sizing: border-box;
+    background-color: #000000;
+}
+
+#tetrisBoard *
+{
+    box-sizing: border-box;
+}
+
+#tetrisBoardGrid
+{
+    position: absolute;
+    outline: 2px inset #00FF00;
+}
+
+.tetrisBlock
+{
+    position: absolute;
+    background-color: #00FF00;
+    border-style: inset;
+    border-color: #00FF00;
+}
+
+#tetrisUserInterface
+{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.tetrisText
+{
+    position: absolute;
+    margin-top: 0;
+    text-align: center;
+    color: #FF0000;
+}
+
+.tetrisScore
+{
+    align-self: flex-start;
+    margin-top: 10;
+    color: #FF0000;
+}
+

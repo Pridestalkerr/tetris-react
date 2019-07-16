@@ -7,10 +7,20 @@ body
     font-family: "Press Start 2P";
 }
 
-#main
+#game
 {
-    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 80vh;
+}
+
+#tutorial
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    text-align: center;
+    color: #FF0000;
 }
